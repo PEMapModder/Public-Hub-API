@@ -4,3 +4,6 @@ api: [1.0.0]
 version: 0.0.0
 load: STARTUP
 main: hubapi\pocketmine\Main
+changelog:
+  (major edition, release-type changed).(major version, possibly some major API changes).(minor version, some minor changes or bug fixes): ""
+  0.0.0: initial version
