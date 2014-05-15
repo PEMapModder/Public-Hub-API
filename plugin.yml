@@ -1,0 +1,6 @@
+name: HubAPI-Alpha
+authors: [PEMapModder]
+api: [1.0.0]
+version: 0.0.0
+load: STARTUP
+main: hubapi\pocketmine\Main
